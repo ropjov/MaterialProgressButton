@@ -58,6 +58,3 @@ button.hideLoading()
 ```
 
 _For an example check the app module of this project_
-
-$$
-
